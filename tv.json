@@ -1,32 +1,32 @@
 {
 	"storeHouse": [
 		{
-			"sourceUrl": "https://clun.top/box.json",
 			"sourceName": "自用"
+			"sourceUrl": "https://clun.top/box.json",
 		},
 		{
-			"sourceUrl": "https://clun.top/fty.json",
 			"sourceName": "饭总"
+			"sourceUrl": "https://clun.top/fty.json",
 		},
 		{
-			"sourceUrl": "https://clun.top/aa.json",
 			"sourceName": "张佬"
+			"sourceUrl": "https://clun.top/aa.json",
 		},
 		{
-			"sourceUrl": "https://clun.top/svip.json",
 			"sourceName": "拾光"
+			"sourceUrl": "https://clun.top/svip.json",
 		},
 		{
-			"sourceUrl": "https://clun.top/moyu.json",
 			"sourceName": "摸鱼"
+			"sourceUrl": "https://clun.top/moyu.json",
 		},
 		{
-			"sourceUrl": "https://clun.top/jsm.json",
 			"sourceName": "PG"
+			"sourceUrl": "https://clun.top/jsm.json",
 		},
 		{
-			"sourceUrl": "https://clun.top/ok.json",
 			"sourceName": "OK"
+			"sourceUrl": "https://clun.top/ok.json",
 		}
 	]
 }
