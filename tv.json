@@ -16,7 +16,7 @@
             "sourceName": "拾光",
             "sourceUrl": "https://clun.top/svip.json"
         }
-	     {
+	 {
             "sourceName": "摸鱼",
             "sourceUrl": "https://clun.top/moyu.json"
         }
@@ -26,7 +26,7 @@
         }
 	     {
             "sourceName": "OK",
-            "sourceUrl": "https://clun.top/ok.json"
+            "sourceUrl": "https://clun.top/ok.json"    
         }
     ]
 }
